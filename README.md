@@ -36,17 +36,4 @@ I’m passionate about **coding, learning, and creating** — always exploring n
 
 ---
 
-## 📊 GitHub Stats
-![Kotwang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kotwang&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kotwang&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-- 📹 YouTube: *Kawm Thiab Hloov*  
-- 📧 [Work in progress – mailer setup on Node.js 😄]*  
-
----
-
 ✨ Thanks for visiting my profile — more projects coming soon!
